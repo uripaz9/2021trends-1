@@ -1,1 +1,1 @@
-console.log("Wix animations changes");
+console.log("Wix window changes");
